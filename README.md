@@ -1,9 +1,9 @@
 ### Hola 👋, mi nombre es Bryan Aguilar
 
 #### Soy Ingeniero de Sistemas y desarrollador de aplicaciones web y móviles
-Ingeniero de Sistemas y Desarrollador de Software. Programador Fullstack con casi dos años de experiencia en tecnologías basadas en Javascript, Python, Java y Dart para ambientes web y móviles. Me desenvuelvo de mejor manera en ambientes ordenados y estructurados, trabajo con metodologías de desarrollo ágiles como SCRUM, me especializo en desarrollo Front-End. Me considero una persona organizada y busco formar parte de grandes equipos de desarollo y trabajar con personas a lo largo del mundo para llevar mi capacidad a un nivel más amplio aportando mi conocimiento para crear nuevas soluciones tenológicas.
+Soy un ingeniero de sistemas especializado en front-end con más de dos años de experiencia profesional. Estoy interesado en todo tipo de comunicación visual, pero mi enfoque principal es el desarrollo de aplicaciones web y móviles. Actualmente estoy trabajando para una “start-up” llamada Eiteck como desarrollador de software.
 
-Habilidades Software: ANGULAR / FLUTTER / JS / HTML / SCSS / REACT
+Habilidades Software: ANGULAR / FLUTTER / JS / HTML / SCSS / REACT / VUE
 
 - Visita mi [sitio web](https://bryanaguilar.gatsbyjs.io/) y conoce algunos de mis trabajos
 - 🔭 Estoy trabajando en Eiteck
