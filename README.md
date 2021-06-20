@@ -3,7 +3,7 @@
 #### Soy Ingeniero de Sistemas y desarrollador de aplicaciones web y móviles
 Soy un ingeniero de sistemas especializado en front-end con más de dos años de experiencia profesional. Estoy interesado en todo tipo de comunicación visual, pero mi enfoque principal es el desarrollo de aplicaciones web y móviles. Actualmente estoy trabajando para una “start-up” llamada Eiteck como desarrollador de software.
 
-Habilidades Software: ANGULAR / FLUTTER / JS / HTML / SCSS / REACT / VUE / NODE
+Habilidades Software: ANGULAR / FLUTTER / JS / HTML / SCSS / REACT / VUE / NODE / EXPRESS
 
 - Visita mi [sitio web](https://bryanaguilar.gatsbyjs.io/) y conoce algunos de mis trabajos
 - 🔭 Estoy trabajando en Eiteck
