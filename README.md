@@ -7,10 +7,10 @@
 </div>
   
 #### Soy Ingeniero de Sistemas y desarrollador de aplicaciones web y móviles
-Soy un ingeniero de sistemas especializado en front-end con más de dos años de experiencia profesional. Estoy interesado en todo tipo de comunicación visual, pero mi enfoque principal es el desarrollo de aplicaciones web y móviles. Actualmente estoy trabajando para una “start-up” llamada Eiteck como desarrollador de software.
+Soy un ingeniero de sistemas especializado en front-end con más de dos años de experiencia profesional. Estoy interesado en todo tipo de comunicación visual, pero mi enfoque principal es el desarrollo de aplicaciones web y móviles. Actualmente estoy trabajando para [Technisys](https://www.technisys.com/) como React Developer.
 
 - Visita mi [sitio web](https://www.bryan-aguilar.com/) y conoce algunos de mis trabajos
-- 🔭 Estoy trabajando en [Eiteck](https://eiteck.com)
+- 🔭 Estoy trabajando en [Technisys](https://www.technisys.com/)
 - 📫 Cómo contactarme: bryan.aguilar6174@gmail.com 
 - 📝 Escribo artículos en Medium [@bryanaguilar6174](https://bryanaguilar6174.medium.com/) 
 - Mi perfil de LinkedIn [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174/)
