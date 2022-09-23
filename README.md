@@ -2,8 +2,8 @@
 
 <div> 
   <a href = "mailto:bryan.aguilar6174@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bryanaguilar6174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://bryanaguilar6174.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/baguilar6174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://baguilar6174.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 </div>
   
 #### Soy Ingeniero de Sistemas y desarrollador de aplicaciones web y móviles
@@ -12,8 +12,8 @@ Soy un ingeniero de sistemas especializado en front-end con más de dos años de
 - Visita mi [sitio web](https://www.bryan-aguilar.com/) y conoce algunos de mis trabajos
 - 🔭 Estoy trabajando en [Technisys](https://www.technisys.com/)
 - 📫 Cómo contactarme: bryan.aguilar6174@gmail.com 
-- 📝 Escribo artículos en Medium [@bryanaguilar6174](https://bryanaguilar6174.medium.com/) 
-- Mi perfil de LinkedIn [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174/)
+- 📝 Escribo artículos en Medium [@baguilar6174](https://baguilar6174.medium.com/) 
+- Mi perfil de LinkedIn [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
 
 ### Aquí hay algunas tecnologías con las que he estado trabajando recientemente:
 
