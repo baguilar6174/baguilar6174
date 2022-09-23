@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es [Bryan Aguilar](https://www.bryan-aguilar.com/)
+### Hi 👋, my name is [Bryan Aguilar](https://www.bryan-aguilar.com/)
 
 <div> 
   <a href = "mailto:bryan.aguilar6174@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -6,16 +6,16 @@
   <a href="https://baguilar6174.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 </div>
   
-#### Soy Ingeniero de Sistemas y desarrollador de aplicaciones web y móviles
-Soy un ingeniero de sistemas especializado en front-end con más de dos años de experiencia profesional. Estoy interesado en todo tipo de comunicación visual, pero mi enfoque principal es el desarrollo de aplicaciones web y móviles. Actualmente estoy trabajando para [Technisys](https://www.technisys.com/) como React Developer.
+#### I am a Systems Engineer and developer of web and mobile applications
+I am a systems engineer specialized in frontend with more than two years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Technisys](https://www.technisys.com/) as React Developer.
 
-- Visita mi [sitio web](https://www.bryan-aguilar.com/) y conoce algunos de mis trabajos
-- 🔭 Estoy trabajando en [Technisys](https://www.technisys.com/)
-- 📫 Cómo contactarme: bryan.aguilar6174@gmail.com 
-- 📝 Escribo artículos en Medium [@baguilar6174](https://baguilar6174.medium.com/) 
-- Mi perfil de LinkedIn [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
+- Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
+- 🔭 I am working on [Technisys](https://www.technisys.com/)
+- 📫 How to contact me: bryan.aguilar6174@gmail.com 
+- 📝 I write articles on Medium [@baguilar6174](https://baguilar6174.medium.com/) 
+- My LinkedIn profile [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
 
-### Aquí hay algunas tecnologías con las que he estado trabajando recientemente:
+### Here are some technologies I have been working with recently:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -32,7 +32,7 @@ Soy un ingeniero de sistemas especializado en front-end con más de dos años de
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
-### Tecnologías que me gustaría conocer
+### Technologies I would like to know about
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
@@ -41,11 +41,11 @@ Soy un ingeniero de sistemas especializado en front-end con más de dos años de
   <img align="center" alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"> 
 </div>
 
-### Habilidades
+### Skills
 
-- Empatía
-- Pasión por aprender
-- Comunicación
-- Creatividad
-- Trabajo en equipo
-- Organización
+- Empathy
+- Passion for learning
+- Communication skills
+- Creativity
+- Teamwork
+- Organizational skills
