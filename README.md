@@ -17,6 +17,18 @@ I am a systems engineer specialized in frontend with more than two years of prof
 - 📝 I write articles on Medium [@baguilar6174](https://baguilar6174.medium.com/) 
 - My LinkedIn profile [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
 
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [bryan-aguilar.com/blog](https://www.bryan-aguilar.com/blog/) as well as on [Medium](https://baguilar6174.medium.com/).
+
+A sample of my recent articles:
+
+<!-- BLOG-POST-LIST:START -->
+- [Clean Code](https://www.bryan-aguilar.com/blog/clean-code/)
+- [Autenticación simple con React y Redux Toolkit](https://www.bryan-aguilar.com/blog/react-auth/)
+- [Metaetiquetas para SEO y Móviles](https://www.bryan-aguilar.com/blog/seo-metatags/)
+<!-- BLOG-POST-LIST:END -->
+
 ### Here are some technologies I have been working with recently:
 
 <div style="display: inline_block"><br>
