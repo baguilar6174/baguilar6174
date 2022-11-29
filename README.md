@@ -1,3 +1,5 @@
+[![Header](./banner.png "Header")](https://www.bryan-aguilar.com/)
+
 ### Hi 👋, my name is [Bryan Aguilar](https://www.bryan-aguilar.com/)
 
 <div> 
