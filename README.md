@@ -57,6 +57,7 @@ A sample of my recent articles:
   <img align="center" alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Next JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
   <img align="center" alt="Tailwindcss" height="50" width="50"  src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
+  <img align="center" alt="Python" height="50" width="50"  src="https://cdn.svgporn.com/logos/python.svg" />
 </div>
 
 ### Skills
