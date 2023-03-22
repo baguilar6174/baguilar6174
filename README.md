@@ -9,7 +9,7 @@
 </div>
   
 #### I am a Systems Engineer and developer of web and mobile applications
-I am a systems engineer specialized in frontend with more than two years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Technisys](https://www.technisys.com/) as React Developer.
+I am a systems engineer specialized in frontend with more than three years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Technisys](https://www.technisys.com/) as React Developer.
 
 - Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
 - 🔭 I am working on [Technisys](https://www.technisys.com/)
