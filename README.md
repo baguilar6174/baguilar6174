@@ -9,10 +9,10 @@
 </div>
   
 #### I am a Systems Engineer and developer of web and mobile applications
-I am a systems engineer specialized in frontend with more than three years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Technisys](https://www.technisys.com/) as React Developer.
+I am a systems engineer specialized in frontend with more than three years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Galileo Financial Technologies](https://www.galileo-ft.com/) as `Semi Sr. React Developer`.
 
 - Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
-- 🔭 I am working on [Technisys](https://www.technisys.com/)
+- 🔭 I am working on [Galileo Financial Technologies](https://www.galileo-ft.com/)
 - 📫 How to contact me: bryan.aguilar6174@gmail.com 
 - 📝 I write articles on Medium [@baguilar6174](https://baguilar6174.medium.com/) 
 - My LinkedIn profile [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
