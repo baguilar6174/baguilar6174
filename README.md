@@ -24,6 +24,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Renderiza archivos Markdown con Next](https://medium.com/@baguilar6174/renderiza-archivos-markdown-con-next-f160fbce73ea)
 - [Discover the best boilerplate for your React projects, make your project scalable](https://medium.com/@baguilar6174/arquitectura-escalable-para-proyectos-de-react-ce8520071ca4)
 - [Estructura base para cualquier proyecto de Angular](https://baguilar6174.medium.com/estructura-base-para-cualquier-proyecto-de-angular-6a035a27bfcf)
 - [Clean Code](https://medium.com/@baguilar6174/clean-code-6cacfc6072f3)
