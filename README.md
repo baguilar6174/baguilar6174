@@ -48,6 +48,8 @@ A sample of my recent articles:
   <img align="center" alt="Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="Next JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
+  <img align="center" alt="Tailwindcss" height="50" width="50"  src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
 </div>
 
 ### Technologies I would like to know about
@@ -56,8 +58,6 @@ A sample of my recent articles:
   <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Go" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Next JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> 
-  <img align="center" alt="Tailwindcss" height="50" width="50"  src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
   <img align="center" alt="Python" height="50" width="50"  src="https://cdn.svgporn.com/logos/python.svg" />
 </div>
 
