@@ -9,7 +9,7 @@
 </div>
   
 #### I am a Systems Engineer and developer of web and mobile applications
-I am a systems engineer specialized in frontend with more than fout years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Galileo Financial Technologies](https://www.galileo-ft.com/) as `Semi Sr. React Developer`.
+I am a systems engineer specialized in frontend with more than four years of professional experience. I am interested in all kinds of visual communication, but my main focus is web and mobile application development. I am currently working for [Galileo Financial Technologies](https://www.galileo-ft.com/) as `Semi Sr. React Developer`.
 
 - Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
 - 🔭 I am working on [Galileo Financial Technologies](https://www.galileo-ft.com/)
