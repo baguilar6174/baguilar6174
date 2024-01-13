@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/baguilar6174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://baguilar6174.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 </div>
-  
-#### Systems Engineer · Frontend Developer · Semi Sr. React Developer · Enthusiastic Data Analyst & Data Scientist · Python Developer
+
+<br/>
 
 I am a systems engineer specialized in front-end with more than four years of professional experience. I have worked in software development, mobile app creation, front-end web, but I also have some skills in other fields like backend development and data management.
 
