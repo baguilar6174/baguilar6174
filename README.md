@@ -1,4 +1,4 @@
-[![www.bryan-aguilar.com](./banner_profile.png "www.bryan-aguilar.com")](https://www.bryan-aguilar.com/)
+[![www.bryan-aguilar.com](./banner_github.png "www.bryan-aguilar.com")](https://www.bryan-aguilar.com/)
 
 ### Hi 👋, my name is [Bryan Aguilar](https://www.bryan-aguilar.com/)
 
