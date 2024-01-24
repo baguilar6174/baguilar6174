@@ -39,4 +39,4 @@ A sample of my recent articles:
 
 <br/>
 
-![Tech Stack](./tech_stack.png "www.bryan-aguilar.com")
+[![Tech Stack](./tech_stack.png "www.bryan-aguilar.com")](https://www.bryan-aguilar.com/about)
