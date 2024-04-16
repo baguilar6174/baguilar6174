@@ -13,7 +13,7 @@
 I am a systems engineer specialized in front-end with more than four years of professional experience. I have worked in software development, mobile app creation, front-end web, but I also have some skills in other fields like backend development and data management.
 
 💻 Frontend Developer / wrangling skills using React / Next.js / Angular / Flutter <br/>
-⚙ Backend Developer / wrangling skills using Node / Python / Nest JS <br/>
+⚙ Backend Developer / wrangling skills using Node / Java / Python / Nest JS <br/>
 📖 Enthusiastic Data Analyst & Scientist / SQL / Spreadsheets / Python
 
 - Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
