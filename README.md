@@ -10,7 +10,7 @@
 
 <br/>
 
-I am a systems engineer specialized in front-end with more than four years of professional experience. I have worked in software development, mobile app creation, front-end web, but I also have some skills in other fields like backend development and data management.
+I am a systems engineer specialized in front-end with more than five years of professional experience. I have worked in software development, mobile app creation, front-end web, but I also have some skills in other fields like backend development and data management.
 
 💻 Frontend Developer / wrangling skills using React / Next.js / Angular / Flutter <br/>
 ⚙ Backend Developer / wrangling skills using Node / Java / Python / Nest JS <br/>
