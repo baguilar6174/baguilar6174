@@ -29,12 +29,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Essentials, Mastering Core Concepts](https://baguilar6174.medium.com/javascript-essentials-mastering-core-concepts-3b1122a3d780)
 - [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://baguilar6174.medium.com/modern-api-development-with-node-js-express-and-typescript-using-clean-architecture-0868607b76de)
 - [Boilerplate for your Node projects with Express](https://baguilar6174.medium.com/boilerplate-for-your-node-projects-with-express-add98ea89c9f)
 - [React Design Patterns](https://medium.com/@baguilar6174/react-design-patterns-6ab55c5ebafb)
 - [Renderiza archivos Markdown con Next](https://medium.com/@baguilar6174/renderiza-archivos-markdown-con-next-f160fbce73ea)
 - [Discover the best boilerplate for your React projects, make your project scalable](https://medium.com/@baguilar6174/arquitectura-escalable-para-proyectos-de-react-ce8520071ca4)
-- [Estructura base para cualquier proyecto de Angular](https://baguilar6174.medium.com/estructura-base-para-cualquier-proyecto-de-angular-6a035a27bfcf)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
