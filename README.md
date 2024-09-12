@@ -17,7 +17,7 @@ I am a systems engineer specialized in front-end with more than five years of pr
 📖 Enthusiastic Data Analyst & Scientist / SQL / Spreadsheets / Python
 
 - Visit my [website](https://www.bryan-aguilar.com/) and see some of my work
-- 🔭 I am working on [Galileo Financial Technologies](https://www.galileo-ft.com/) as `Sr Software Engineer`
+- 🔭 I am working on [Galileo Financial Technologies](https://www.galileo-ft.com/) as `Senior Software Engineer`
 - 📫 How to contact me: [bryan.aguilar6174@gmail.com](mailto:bryan.aguilar6174@gmail.com)
 - 📝 I write articles on Medium [@baguilar6174](https://baguilar6174.medium.com/) 
 - My LinkedIn profile [baguilar6174](https://www.linkedin.com/in/baguilar6174/)
