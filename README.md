@@ -33,8 +33,6 @@ A sample of my recent articles:
 - [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://baguilar6174.medium.com/modern-api-development-with-node-js-express-and-typescript-using-clean-architecture-0868607b76de)
 - [Boilerplate for your Node projects with Express](https://baguilar6174.medium.com/boilerplate-for-your-node-projects-with-express-add98ea89c9f)
 - [React Design Patterns](https://medium.com/@baguilar6174/react-design-patterns-6ab55c5ebafb)
-- [Renderiza archivos Markdown con Next](https://medium.com/@baguilar6174/renderiza-archivos-markdown-con-next-f160fbce73ea)
-- [Discover the best boilerplate for your React projects, make your project scalable](https://medium.com/@baguilar6174/arquitectura-escalable-para-proyectos-de-react-ce8520071ca4)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
