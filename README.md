@@ -29,6 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Collections Framework](https://baguilar6174.medium.com/java-collections-framework-ee2fa5fb838f)
 - [JavaScript Essentials, Mastering Core Concepts](https://baguilar6174.medium.com/javascript-essentials-mastering-core-concepts-3b1122a3d780)
 - [Modern API Development with Node.js, Express, and TypeScript using Clean Architecture](https://baguilar6174.medium.com/modern-api-development-with-node-js-express-and-typescript-using-clean-architecture-0868607b76de)
 - [Boilerplate for your Node projects with Express](https://baguilar6174.medium.com/boilerplate-for-your-node-projects-with-express-add98ea89c9f)
