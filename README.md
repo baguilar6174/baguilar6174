@@ -29,6 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Scalable Flutter Apps — Part 1: App Initialization](https://medium.com/@baguilar6174/scalable-flutter-apps-part-1-920b334f47eb)
 - [Conway’s Game of Life and Mathematical Incompleteness](https://medium.com/@baguilar6174/conways-game-of-life-and-mathematical-incompleteness-6f7a25ce1547)
 - [Dependency Injection & Dependency Inversion Principle](https://medium.com/@baguilar6174/dependency-injection-dependency-inversion-principle-a1c13310287b)
 - [Java Collections Framework](https://baguilar6174.medium.com/java-collections-framework-ee2fa5fb838f)
